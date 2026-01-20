@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<records>
+      
+  
+  <Note>
+            
+    
+    <Num>1</Num>
+            
+    
+    <Title/>
+            
+    
+    <Text>text</Text>
+            
+    
+    <DataCreate>2026-01-13</DataCreate>
+            
+    
+    <Tags/>
+          
+  
+  </Note>
+    
+  
+  <Note>
+        
+    <Num>2</Num>
+        
+    <Title/>
+        
+    <Text>text_2</Text>
+        
+    <DataCreate>2026-01-13</DataCreate>
+        
+    <Tags/>
+      
+  </Note>
+  
+  <Member>
+    <Num>3</Num>
+    <Title/>
+    <Text>member_1</Text>
+    <DataCreate>2026-01-20</DataCreate>
+    <Tags/>
+  </Member>
+</records>

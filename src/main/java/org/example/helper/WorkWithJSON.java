@@ -2,8 +2,6 @@ package org.example.helper;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
-import org.example.model.Note;
-import org.example.model.Record;
 import com.google.gson.reflect.TypeToken;
 
 import java.io.*;

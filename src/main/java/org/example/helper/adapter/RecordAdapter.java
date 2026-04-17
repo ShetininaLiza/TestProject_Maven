@@ -1,8 +1,6 @@
 package org.example.helper.adapter;
 
 import com.google.gson.*;
-import org.example.model.Record;
-import org.example.model.TypeRecord;
 
 import java.lang.reflect.Type;
 
